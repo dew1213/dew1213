@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 -->
-I'm Full stack developper With .net 
+I'm Full stack developper with .net 
